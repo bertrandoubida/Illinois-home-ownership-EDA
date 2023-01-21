@@ -1,0 +1,75 @@
+"Row Order","Survey","Survey Year","Area","Table Description","Tenure Filter","Geography Filter","Characteristics","Race of Householder: Total|Metric: Estimate","Race of Householder: White alone|Metric: Estimate","Race of Householder: Black alone|Metric: Estimate","Race of Householder: American Indian or Alaska Native alone|Metric: Estimate","Race of Householder: Asian alone|Metric: Estimate","Race of Householder: Pacific Islander alone|Metric: Estimate","Race of Householder: Two or more races|Metric: Estimate"
+1,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","      Total",3328.1,"S","S","S","S","S","S"
+2,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE",,,,,,,,
+3,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Household Income",,,,,,,
+4,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE",,,,,,,,
+5,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Less than $5,000",129.8,"S","S","S","S","S","S"
+6,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$5,000 to $9,999",48.7,"S","S","S","S","S","S"
+7,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$10,000 to $14,999",86.8,"S","S","S","S","S","S"
+8,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$15,000 to $19,999",69.2,"S","S","S","S","S","S"
+9,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$20,000 to $24,999",108.8,"S","S","S","S","S","S"
+10,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$25,000 to $29,999",102.7,"S","S","S","S","S","S"
+11,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$30,000 to $34,999",126.7,"S","S","S","S","S","S"
+12,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$35,000 to $39,999",87.9,"S","S","S","S","S","S"
+13,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$40,000 to $49,999",230.1,"S","S","S","S","S","S"
+14,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$50,000 to $59,999",208.8,"S","S","S","S","S","S"
+15,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$60,000 to $79,999",493.3,"S","S","S","S","S","S"
+16,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$80,000 to $99,999",406.6,"S","S","S","S","S","S"
+17,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$100,000 to $119,999",325.4,"S","S","S","S","S","S"
+18,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$120,000 to $139,999",245.3,"S","S","S","S","S","S"
+19,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$140,000 to $159,999",175.5,"S","S","S","S","S","S"
+20,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$160,000 to $179,999",113.0,"S","S","S","S","S","S"
+21,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$180,000 to $199,999",89.5,"S","S","S","S","S","S"
+22,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$200,000 or more",279.9,"S","S","S","S","S","S"
+23,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Median (dollars)",78380.0,81000.0,50000.0,61500.0,96400.0,"S","S"
+24,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Mean (dollars)",100000.0,103500.0,59090.0,60560.0,105100.0,"S","S"
+25,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE",,,,,,,,
+26,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","  As percent of poverty level:",,,,,,,
+27,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","    Less than 50 percent",155.3,"S","S","S","S","S","S"
+28,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","    50 to 99 percent",96.8,"S","S","S","S","S","S"
+29,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","    100 to 149 percent",164.9,"S","S","S","S","S","S"
+30,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","    150 to 199 percent",301.4,"S","S","S","S","S","S"
+31,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","    200 percent or more",2609.7,"S","S","S","S","S","S"
+32,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE",,,,,,,,
+33,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Income of Families and Primary Individuals",,,,,,,
+34,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE",,,,,,,,
+35,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Less than $5,000","S","S","S","S","S","S","S"
+36,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$5,000 to $9,999","S","S","S","S","S","S","S"
+37,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$10,000 to $14,999","S","S","S","S","S","S","S"
+38,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$15,000 to $19,999","S","S","S","S","S","S","S"
+39,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$20,000 to $24,999","S","S","S","S","S","S","S"
+40,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$25,000 to $29,999","S","S","S","S","S","S","S"
+41,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$30,000 to $34,999","S","S","S","S","S","S","S"
+42,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$35,000 to $39,999","S","S","S","S","S","S","S"
+43,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$40,000 to $49,999","S","S","S","S","S","S","S"
+44,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$50,000 to $59,999","S","S","S","S","S","S","S"
+45,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$60,000 to $79,999","S","S","S","S","S","S","S"
+46,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$80,000 to $99,999","S","S","S","S","S","S","S"
+47,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$100,000 to $119,999","S","S","S","S","S","S","S"
+48,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$120,000 to $139,999","S","S","S","S","S","S","S"
+49,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$140,000 to $159,999","S","S","S","S","S","S","S"
+50,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$160,000 to $179,999","S","S","S","S","S","S","S"
+51,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$180,000 to $199,999","S","S","S","S","S","S","S"
+52,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","$200,000 or more","S","S","S","S","S","S","S"
+53,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Median (dollars)",75000.0,78000.0,50000.0,61500.0,94000.0,"S","S"
+54,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Mean (dollars)",96720.0,99950.0,57020.0,55850.0,103000.0,"S","S"
+55,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE",,,,,,,,
+56,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Income Sources of Families and Primary Individuals",,,,,,,
+57,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","  ",,,,,,,
+58,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Wages and salaries",2329.2,1929.2,201.3,"S",159.1,"S","S"
+59,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Self-employment",386.0,"S","S","S","S","S","S"
+60,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Interest, Dividends and Rental Income",1037.3,"S","S","S","S","S","S"
+61,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Social Security or Railroad Retirement",1033.5,"S","S","S","S","S","S"
+62,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Retirement or survivor pensions",761.8,"S","S","S","S","S","S"
+63,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Supplementary Security Income (SSI)",128.9,"S","S","S","S","S","S"
+64,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Public assistance or public welfare",57.2,"S","S","S","S","S","S"
+65,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Farm income",47.7,47.7,".",".",".",".","."
+66,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Other income (worker's compensation, alimony, and any other income not previously reported)",491.4,"S","S","S","S","S","S"
+67,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE",,,,,,,,
+68,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Food Stamps",,,,,,,
+69,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE",,,,,,,,
+70,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","  Families and primary individuals eligible to receive food stamps",2240.3,"S","S","S","S","S","S"
+71,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Received food stamps",164.7,"S","S","S","S","S","S"
+72,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Did not receive food stamps",1957.3,"S","S","S","S","S","S"
+73,"AHS",2021,"Illinois","Income Characteristics - All Occupied Units","Owner","NONE","Not reported",118.3,"S","S","S","S","S","S"
+
